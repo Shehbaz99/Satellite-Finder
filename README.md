@@ -54,11 +54,7 @@ The application combines location services, device sensors, and satellite positi
 
 # 📸 Screenshots
 
-> Add screenshots of your application here.
 
-| Home Screen | Compass View | Satellite Alignment |
-| ----------- | ------------ | ------------------- |
-| Screenshot  | Screenshot   | Screenshot          |
 
 ---
 
